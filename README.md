@@ -16,4 +16,4 @@ This is a simple temperature converter app built with Kotlin and Jetpack Compose
 3. The app will automatically display the equivalent temperature in Celsius.
 
 ## Installation
-To install the app, you can clone this repository and import into **Android Studio**. 
+To install the app, you can clone this repository and import into **Android Studio** and run on an emulator. 
